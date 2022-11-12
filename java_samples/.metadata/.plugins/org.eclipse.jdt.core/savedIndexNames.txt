@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\aykut\Desktop\kofana\java_samples\.metadata\.plugins\org.eclipse.jdt.core
+1288255406.index
+3959137331.index

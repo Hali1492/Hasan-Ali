@@ -1,0 +1,12 @@
+C:\Users\aykut\Desktop\kofana\Polimorfizm\PL\bin\Debug\PL.exe.config
+C:\Users\aykut\Desktop\kofana\Polimorfizm\PL\bin\Debug\PL.exe
+C:\Users\aykut\Desktop\kofana\Polimorfizm\PL\bin\Debug\PL.pdb
+C:\Users\aykut\Desktop\kofana\Polimorfizm\PL\bin\Debug\BL.dll
+C:\Users\aykut\Desktop\kofana\Polimorfizm\PL\bin\Debug\DAL.dll
+C:\Users\aykut\Desktop\kofana\Polimorfizm\PL\bin\Debug\BL.pdb
+C:\Users\aykut\Desktop\kofana\Polimorfizm\PL\bin\Debug\DAL.pdb
+C:\Users\aykut\Desktop\kofana\Polimorfizm\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Users\aykut\Desktop\kofana\Polimorfizm\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\aykut\Desktop\kofana\Polimorfizm\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\aykut\Desktop\kofana\Polimorfizm\PL\obj\Debug\PL.exe
+C:\Users\aykut\Desktop\kofana\Polimorfizm\PL\obj\Debug\PL.pdb

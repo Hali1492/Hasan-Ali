@@ -1,0 +1,7 @@
+C:\Users\aykut\Desktop\kofana\Overriding\Overriding\bin\Debug\Overriding.exe.config
+C:\Users\aykut\Desktop\kofana\Overriding\Overriding\bin\Debug\Overriding.exe
+C:\Users\aykut\Desktop\kofana\Overriding\Overriding\bin\Debug\Overriding.pdb
+C:\Users\aykut\Desktop\kofana\Overriding\Overriding\obj\Debug\Overriding.csproj.AssemblyReference.cache
+C:\Users\aykut\Desktop\kofana\Overriding\Overriding\obj\Debug\Overriding.csproj.CoreCompileInputs.cache
+C:\Users\aykut\Desktop\kofana\Overriding\Overriding\obj\Debug\Overriding.exe
+C:\Users\aykut\Desktop\kofana\Overriding\Overriding\obj\Debug\Overriding.pdb
